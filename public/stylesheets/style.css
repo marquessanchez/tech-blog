@@ -8,7 +8,7 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: white;
-  background-color: #878E88;
+  background-color: #494949;
 }
 
 a {
@@ -79,7 +79,7 @@ form label {
 }
 
 header {
-  background-color: #F24236;
+  background-color: #0c1594;
   border-bottom: 3px solid black;
   display: flex;
   justify-content: space-between;
